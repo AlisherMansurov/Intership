@@ -1,0 +1,7 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod01\Mod01\bin\Debug\Mod01.exe.config
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod01\Mod01\bin\Debug\Mod01.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod01\Mod01\bin\Debug\Mod01.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod01\Mod01\obj\Debug\Mod01.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod01\Mod01\obj\Debug\Mod01.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod01\Mod01\obj\Debug\Mod01.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod01\Mod01\obj\Debug\Mod01.pdb
