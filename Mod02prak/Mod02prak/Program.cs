@@ -22,12 +22,14 @@ namespace Mod02prak
 
             //Console.WriteLine(234/7);
 
+            //Console.WriteLine("Task5");
             //int a = 99;
             //Console.WriteLine($"число десятков - {a/10}");
             //Console.WriteLine($"число единиц - {a % 10}");
             //Console.WriteLine($"сумма цифр - {(a / 10) + (a % 10)}");
             //Console.WriteLine($"произведение цифр - {(a / 10) * (a % 10)}");
 
+            //Console.WriteLine("Task6");
             //bool A = true;
             //bool C = false;
             //bool B = false;
@@ -35,6 +37,7 @@ namespace Mod02prak
             //Console.WriteLine(A && B);
             //Console.WriteLine(B || C);
 
+            //Console.WriteLine("Task7");
             //a = 20;
             //int r = 10;
             //if (a * a > 3.14 * r * r) 
@@ -46,6 +49,7 @@ namespace Mod02prak
             //    Console.WriteLine("Площадь круга больше");
             //}
 
+            //Console.WriteLine("Task8");
             //int v1 = 23;
             //int m1 = 40;
             //int v2 = 21;
@@ -59,6 +63,7 @@ namespace Mod02prak
             //    Console.WriteLine("Плотность тела 2 больше");
             //}
 
+            //Console.WriteLine("Task9");
             //int U1 = 30;
             //int U2 = 30;
             //int R1 = 4;
@@ -72,22 +77,29 @@ namespace Mod02prak
             //    Console.WriteLine("Сила тока меньше в 2 цепи");
             //}
 
+            //Console.WriteLine("Task10");
             //for (int i = 20; i <= 35; i++)
             //{
             //    Console.WriteLine(i);
             //}
+
+            //Console.WriteLine("Task11");
             //Console.WriteLine("Введите b-");
             //int b = Convert.ToInt32(Console.ReadLine());
             //for (int i = 10; i <= b; i++)
             //{
             //    Console.WriteLine(i*i);
             //}
+
+            //Console.WriteLine("Task12");
             //Console.WriteLine("Введите a-");
             //a = Convert.ToInt32(Console.ReadLine());
             //for (int i = a; i <= 50; i++)
             //{
             //    Console.WriteLine(i * i * i);
             //}
+
+            //Console.WriteLine("Task13");
             //Console.WriteLine("Введите a-");
             //a = Convert.ToInt32(Console.ReadLine());
             //Console.WriteLine("Введите b-");
@@ -100,20 +112,24 @@ namespace Mod02prak
             //    }
             //}
 
+            //Console.WriteLine("Task14");
             //Console.WriteLine("Введите x-");
             //int x = Convert.ToInt32(Console.ReadLine());
             //int y = 3 * x ^ 2 + 2 * x + 4;
             //Console.WriteLine($"y = {y}");
 
+            //Console.WriteLine("Task15");
             //Console.WriteLine("Введите радиус r-");
             //r = Convert.ToInt32(Console.ReadLine());
             //Console.WriteLine($"Длина окружности - {2 * 3.14 * r} \n площадь круга - {3.14 * r * r}");
 
+            //Console.WriteLine("Task16");
             //Console.WriteLine("Введите четырехзначное число: ");
             //int c = Convert.ToInt32(Console.ReadLine());
             //Console.WriteLine($"Сумма цифр - {(c/1000) + (c/100 % 10) + (c / 10 % 10) + (c % 10)}");
             //Console.WriteLine($"произведение цифр - {(c / 1000) * (c / 100 % 10) * (c / 10 % 10) * (c % 10)}");
 
+            //Console.WriteLine("Task17");
             //int r = 456;
             //Console.WriteLine($"1 - {r / 100}");
             //Console.WriteLine($"1 - {r % 100 / 10}");
@@ -121,25 +137,28 @@ namespace Mod02prak
             //int x = 100 * (r / 100)+10*(r % 10)+(r % 100 / 10);
             //Console.WriteLine(x);
 
+            //Console.WriteLine("Task18");
             //bool X = true;
             //bool Y = false;
             //Console.WriteLine(!X&&!Y);
             //Console.WriteLine(X || (!X&&Y));
             //Console.WriteLine((!X&&Y)||Y);
 
+            //Console.WriteLine("Task19");
             //int a = 3;
             //int b = 4;
             //int x = 4;
             //int y = 2;
             //swap(ref a, ref b);
 
+            //Console.WriteLine("Task20");
             //f(ref a, ref b, x, y);
             //Console.WriteLine($"{a} \n {b}");
 
+            //Console.WriteLine("Task21");
             //int m1 = 4;
             //int m2 = 2;
             //int m3 = 1;
-
             //if (m1 < m2 && m1 < m3)
             //{
             //    Console.WriteLine($"наименьшее число {m1}");
@@ -153,6 +172,7 @@ namespace Mod02prak
             //    Console.WriteLine($"наименьшее число {m3}");
             //}
 
+            //Console.WriteLine("Task22");
             //Random rnd = new Random();
             //int randomN = rnd.Next(2, 6);
             //switch (randomN)
@@ -171,6 +191,7 @@ namespace Mod02prak
             //        break;
             //}
 
+            //Console.WriteLine("Task23");
             //int M = 10;
             //int N = 20;
             //Console.WriteLine(f(M, N));
