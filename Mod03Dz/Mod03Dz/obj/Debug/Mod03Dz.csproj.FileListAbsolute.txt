@@ -1,0 +1,7 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod03Dz\Mod03Dz\bin\Debug\Mod03Dz.exe.config
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod03Dz\Mod03Dz\bin\Debug\Mod03Dz.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod03Dz\Mod03Dz\bin\Debug\Mod03Dz.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod03Dz\Mod03Dz\obj\Debug\Mod03Dz.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod03Dz\Mod03Dz\obj\Debug\Mod03Dz.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod03Dz\Mod03Dz\obj\Debug\Mod03Dz.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod03Dz\Mod03Dz\obj\Debug\Mod03Dz.pdb
