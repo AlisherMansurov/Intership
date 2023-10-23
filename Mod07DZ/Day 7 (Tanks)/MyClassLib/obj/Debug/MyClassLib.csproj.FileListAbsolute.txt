@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\MyClassLib\obj\Debug\MyClassLib.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\MyClassLib\obj\Debug\MyClassLib.pdb

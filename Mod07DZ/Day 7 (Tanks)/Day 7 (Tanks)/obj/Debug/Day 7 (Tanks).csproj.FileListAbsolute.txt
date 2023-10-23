@@ -1,0 +1,10 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\Day 7 (Tanks)\bin\Debug\Day 7 (Tanks).exe.config
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\Day 7 (Tanks)\bin\Debug\Day 7 (Tanks).exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\Day 7 (Tanks)\bin\Debug\Day 7 (Tanks).pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\Day 7 (Tanks)\bin\Debug\MyClassLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\Day 7 (Tanks)\bin\Debug\MyClassLib.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\Day 7 (Tanks)\obj\Debug\Day 7 (Tanks).csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\Day 7 (Tanks)\obj\Debug\Day 7 (Tanks).csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\Day 7 (Tanks)\obj\Debug\Day 7 (Tanks).csproj.CopyComplete
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\Day 7 (Tanks)\obj\Debug\Day 7 (Tanks).exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Day 7 (Tanks)\Day 7 (Tanks)\obj\Debug\Day 7 (Tanks).pdb
