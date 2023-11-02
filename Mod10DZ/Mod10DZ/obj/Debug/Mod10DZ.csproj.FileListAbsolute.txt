@@ -1,0 +1,16 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\bin\Debug\Mod10DZ.exe.config
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\bin\Debug\Mod10DZ.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\bin\Debug\Mod10DZ.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\bin\Debug\PersonL.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\bin\Debug\StudentL.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\bin\Debug\StudentWithAdvisor.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\bin\Debug\TeacherL.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\bin\Debug\PersonL.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\bin\Debug\StudentL.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\bin\Debug\StudentWithAdvisor.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\bin\Debug\TeacherL.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\obj\Debug\Mod10DZ.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\obj\Debug\Mod10DZ.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\obj\Debug\Mod10DZ.csproj.CopyComplete
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\obj\Debug\Mod10DZ.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\Mod10DZ\obj\Debug\Mod10DZ.pdb

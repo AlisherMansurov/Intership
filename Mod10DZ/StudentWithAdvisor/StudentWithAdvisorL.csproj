@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B8DE0840-79A4-47A8-80B4-E0F0DE75BEB4}</ProjectGuid>
+    <ProjectGuid>{4ABBFAE1-A4B8-4079-BEA1-6E1316A689F7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>StudentWithAdvisor</RootNamespace>
@@ -45,12 +45,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Person\PersonL.csproj">
-      <Project>{cc473346-45ff-440c-87f2-5bd59e5329bd}</Project>
+    <ProjectReference Include="..\PersonL\PersonL.csproj">
+      <Project>{9ad99574-4fb2-4f02-9557-7b00112c48a5}</Project>
       <Name>PersonL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Teacher\TeacherL.csproj">
-      <Project>{6d1b840c-0ef7-40a0-81b3-9ac2f4496bf2}</Project>
+    <ProjectReference Include="..\TeacherL\TeacherL.csproj">
+      <Project>{7dc845d2-ebfc-4514-a95f-ef3328700d54}</Project>
       <Name>TeacherL</Name>
     </ProjectReference>
   </ItemGroup>

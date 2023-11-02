@@ -1,0 +1,11 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\TeacherL\bin\Debug\TeacherL.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\TeacherL\bin\Debug\TeacherL.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\TeacherL\bin\Debug\PersonL.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\TeacherL\bin\Debug\StudentL.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\TeacherL\bin\Debug\PersonL.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\TeacherL\bin\Debug\StudentL.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\TeacherL\obj\Debug\TeacherL.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\TeacherL\obj\Debug\TeacherL.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\TeacherL\obj\Debug\TeacherL.csproj.CopyComplete
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\TeacherL\obj\Debug\TeacherL.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10DZ\TeacherL\obj\Debug\TeacherL.pdb

@@ -1,6 +1,0 @@
-C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09DZ\Person\bin\Debug\Person.dll
-C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09DZ\Person\bin\Debug\Person.pdb
-C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09DZ\Person\obj\Debug\PersonL.csproj.AssemblyReference.cache
-C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09DZ\Person\obj\Debug\PersonL.csproj.CoreCompileInputs.cache
-C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09DZ\Person\obj\Debug\Person.dll
-C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09DZ\Person\obj\Debug\Person.pdb
