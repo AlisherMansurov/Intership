@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\BuildLib\bin\Debug\BuildLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\BuildLib\bin\Debug\BuildLib.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\BuildLib\obj\Debug\BuildLib.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\BuildLib\obj\Debug\BuildLib.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\BuildLib\obj\Debug\BuildLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\BuildLib\obj\Debug\BuildLib.pdb

@@ -1,0 +1,9 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\WorkerLib\bin\Debug\WorkerLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\WorkerLib\bin\Debug\WorkerLib.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\WorkerLib\bin\Debug\BuildLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\WorkerLib\bin\Debug\BuildLib.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\WorkerLib\obj\Debug\WorkerLib.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\WorkerLib\obj\Debug\WorkerLib.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\WorkerLib\obj\Debug\WorkerLib.csproj.CopyComplete
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\WorkerLib\obj\Debug\WorkerLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod10prac\WorkerLib\obj\Debug\WorkerLib.pdb
