@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod12Dz", "Mod12Dz\Mod12Dz.csproj", "{94EBDC9F-BBC5-43DA-9AEA-383AF841D14C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarLib", "CarLib\CarLib.csproj", "{72DFA4B2-4863-49F6-84C5-E4A79BCBC07F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94EBDC9F-BBC5-43DA-9AEA-383AF841D14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EBDC9F-BBC5-43DA-9AEA-383AF841D14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EBDC9F-BBC5-43DA-9AEA-383AF841D14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EBDC9F-BBC5-43DA-9AEA-383AF841D14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72DFA4B2-4863-49F6-84C5-E4A79BCBC07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DFA4B2-4863-49F6-84C5-E4A79BCBC07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DFA4B2-4863-49F6-84C5-E4A79BCBC07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DFA4B2-4863-49F6-84C5-E4A79BCBC07F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8211DB4B-7D88-4453-95E6-5202D497A0D9}
+	EndGlobalSection
+EndGlobal

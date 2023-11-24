@@ -1,0 +1,10 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod12Dz\Mod12Dz\bin\Debug\Mod12Dz.exe.config
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod12Dz\Mod12Dz\bin\Debug\Mod12Dz.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod12Dz\Mod12Dz\bin\Debug\Mod12Dz.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod12Dz\Mod12Dz\bin\Debug\CarLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod12Dz\Mod12Dz\bin\Debug\CarLib.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod12Dz\Mod12Dz\obj\Debug\Mod12Dz.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod12Dz\Mod12Dz\obj\Debug\Mod12Dz.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod12Dz\Mod12Dz\obj\Debug\Mod12Dz.csproj.CopyComplete
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod12Dz\Mod12Dz\obj\Debug\Mod12Dz.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod12Dz\Mod12Dz\obj\Debug\Mod12Dz.pdb
