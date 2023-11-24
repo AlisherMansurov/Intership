@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod09prac", "Mod09prac\Mod09prac.csproj", "{A72EA442-494B-420B-B289-D8B352E79076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageLib", "StorageLib\StorageLib.csproj", "{919DCBE4-CD7A-435E-BA57-8B8BC9A1E0FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A72EA442-494B-420B-B289-D8B352E79076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72EA442-494B-420B-B289-D8B352E79076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72EA442-494B-420B-B289-D8B352E79076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72EA442-494B-420B-B289-D8B352E79076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919DCBE4-CD7A-435E-BA57-8B8BC9A1E0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919DCBE4-CD7A-435E-BA57-8B8BC9A1E0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919DCBE4-CD7A-435E-BA57-8B8BC9A1E0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919DCBE4-CD7A-435E-BA57-8B8BC9A1E0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A07453FE-A036-4CDD-8EFE-F69D6649F3C6}
+	EndGlobalSection
+EndGlobal
