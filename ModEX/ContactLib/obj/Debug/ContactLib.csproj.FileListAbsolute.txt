@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\ModEX\ContactLib\bin\Debug\ContactLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\ModEX\ContactLib\bin\Debug\ContactLib.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\ModEX\ContactLib\obj\Debug\ContactLib.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\ModEX\ContactLib\obj\Debug\ContactLib.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\ModEX\ContactLib\obj\Debug\ContactLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\ModEX\ContactLib\obj\Debug\ContactLib.pdb
